@@ -6,7 +6,7 @@ namespace jumper.game
         private bool isPlaying;
         private Word word;
         private TerminalService terminalService;
-        string wordActual;
+      
         private char userGuess;
 
         public Director()
